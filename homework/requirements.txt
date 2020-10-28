@@ -1,0 +1,12 @@
+attrs
+iniconfig
+packaging
+pluggy
+py
+pyparsing
+pytest
+pytest-rerunfailures
+selenium
+six
+toml
+urllib3
